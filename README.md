@@ -1,4 +1,4 @@
-# PenetrationTest vs Fuzzing
+# Penetration Test vs Fuzzing
 介紹查找漏洞的方式以及相關的工具。
 
 ## **查找漏洞的方式有?**
