@@ -23,12 +23,12 @@ Tip：模糊測試的類型不只這兩個呦。
 
 ## **有哪些常用的工具?**
 * 模糊測試工具
-	* [Ffuf](https://github.com/WanShannn/PenetrationTest-vs-Fuzzing/tree/main/Web/Ffuf)
-	* [Dirb](https://github.com/WanShannn/PenetrationTest-vs-Fuzzing/tree/main/Web/Dirb)
-	* [Gobuster](https://github.com/WanShannn/PenetrationTest-vs-Fuzzing/tree/main/Web/Gobuster)
-	* [WFuzz](https://github.com/WanShannn/PenetrationTest-vs-Fuzzing/tree/main/Web/WFuzz)
-	* [Dirsearch](https://github.com/WanShannn/PenetrationTest-vs-Fuzzing/tree/main/Web/Dirsearch)
-	* [Boofuzz](https://github.com/WanShannn/PenetrationTest-vs-Fuzzing/tree/main/Network%20protocol/Boofuzz)
+	* [Ffuf](https://github.com/WanShannn/PenetrationTest-vs-Fuzzing/tree/main/Fuzzing/Web/Ffuf)
+	* [Dirb](https://github.com/WanShannn/PenetrationTest-vs-Fuzzing/tree/main/Fuzzing/Web/Dirb)
+	* [Gobuster](https://github.com/WanShannn/PenetrationTest-vs-Fuzzing/tree/main/Fuzzing/Web/Gobuster)
+	* [WFuzz](https://github.com/WanShannn/PenetrationTest-vs-Fuzzing/tree/main/Fuzzing/Web/WFuzz)
+	* [Dirsearch](https://github.com/WanShannn/PenetrationTest-vs-Fuzzing/tree/main/Fuzzing/Web/Dirsearch)
+	* [Boofuzz](https://github.com/WanShannn/PenetrationTest-vs-Fuzzing/tree/main/Fuzzing/Network%20protocol/Boofuzz)
 * 滲透測試工具
 	* Nmap
 	* Metasploit
